@@ -78,7 +78,6 @@ is_lit(+Board, +Position)
 can_place_light(+Board, +Position)
 valid_solution(+Board)
 solve(+Board0, -BoardSolved)
-solve_optimized(+Board0, -BoardSolved)
 ```
 ## A valid solution must satisfy:
 
